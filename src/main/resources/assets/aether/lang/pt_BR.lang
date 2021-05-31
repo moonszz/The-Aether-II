@@ -1,13 +1,13 @@
 # Aether Blocks
-tile.aether.aether_dirt.dirt.name=Aether Dirt
-tile.aether.aether_dirt.coarse_dirt.name=Coarse Aether Dirt
-tile.aether.aether_grass.normal.name=Highlands Grass
-tile.aether.aether_grass.enchanted.name=Enchanted Grass
-tile.aether.aether_grass.arctic.name=Arctic Grass
-tile.aether.aether_grass.magnetic.name=Magnetic Grass
-tile.aether.aether_grass.irradiated.name=Irradiated Grass
-tile.aether.holystone.normal.name=Holystone
-tile.aether.holystone.mossy.name=Mossy Holystone
+tile.aether.aether_dirt.dirt.name=Terra do Aether
+tile.aether.aether_dirt.coarse_dirt.name=Terra Grossa do Aether
+tile.aether.aether_grass.normal.name=Grama das Terras Altas
+tile.aether.aether_grass.enchanted.name=Grama Encantada
+tile.aether.aether_grass.arctic.name=Grama Ártica
+tile.aether.aether_grass.magnetic.name=Grama Magnética
+tile.aether.aether_grass.irradiated.name=Grama Irradiada
+tile.aether.holystone.normal.name=Pedra Sagrada
+tile.aether.holystone.mossy.name=Pedra Sagrada Musgosa
 tile.aether.holystone.blood_moss.name=Blood Moss Holystone
 tile.aether.holystone.irradiated.name=Irradiated Holystone
 tile.aether.aercloud.cold.name=Cold Aercloud
